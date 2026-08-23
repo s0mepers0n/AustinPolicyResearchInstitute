@@ -1,4 +1,3 @@
-// Mobile nav toggle — shared across all pages
 document.addEventListener("DOMContentLoaded", function () {
   var toggle = document.getElementById("navToggle");
   var links = document.getElementById("navLinks");
